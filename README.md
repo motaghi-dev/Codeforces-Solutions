@@ -10,8 +10,7 @@ Codeforces-Solutions/
 │   ├── A/
 │   ├── B/
 │   ├── C/
-│   ├── D/
-│   └── E/
+│   └── D/
 ```
 
 ## About This Project
