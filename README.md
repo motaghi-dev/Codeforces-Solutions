@@ -7,7 +7,6 @@ This repository contains my personal collection of accepted solutions to problem
 
 ```
 Codeforces-Solutions/
-├── CONTEST_PROBLEMS/
 │   ├── A/
 │   ├── B/
 │   ├── C/
